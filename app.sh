@@ -2,4 +2,3 @@
 set -euo pipefail
 
 echo "Application is running successfully"
-if
