@@ -115,7 +115,7 @@ The webhook is configured to trigger on push events.
 Clone the repository:
 
 ```bash
-git clone [https://github.com/nisha-subramaniyan/devops-ci-demo.git](https://github.com/nisha-subramaniyan/devops-ci-demo.git)
+git clone https://github.com/nisha-subramaniyan/devops-ci-demo.git
 cd devops-ci-demo
 ```
 
